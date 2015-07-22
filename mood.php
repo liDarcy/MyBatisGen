@@ -22,5 +22,5 @@ if($action == 'send')
 }
 else
 {
-	
+	echo "success";
 }
